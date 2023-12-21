@@ -1,0 +1,18 @@
+.chatbox{ 
+  border: 1px solid black;
+  padding: 10px;
+  height: 300px;
+  width: 700px;
+  overflow-y: auto;
+  background-color:rgb(2, 134, 127);
+  margin-left: 350px;
+  }
+
+.txtcenter {
+  text-align: center;
+  text-decoration: none;
+}
+
+.txtcolor {
+  color: green;
+}
